@@ -19,4 +19,6 @@ Plan to get this Done
 
 ## Here the main work of NLP is in step one, That's where I am getting strucked.
 
+## All the patterns and chunks are formed based on the training questions in the attached pdf file
+
 
