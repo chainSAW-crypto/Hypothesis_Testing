@@ -17,7 +17,7 @@ Plan to get this Done
 3. Creating functions for each test to get calculated t/z/chi-squarred value
 4. comparing critical and calculated value, defining some more conditions in order to get the final conclusion
 
-## Here the main work of NLP is in step one, That's where I am getting strucked.
+## Here the main work of NLP is in step one, That's where I am getting stuck
 
 ## All the patterns and chunks are formed based on the training questions in the attached pdf file
 
